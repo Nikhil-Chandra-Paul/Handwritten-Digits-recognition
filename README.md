@@ -15,5 +15,5 @@ b)Gui part (main.py):
 
 same thing import the necessary modules.
 It loads the mnist.h5 model.
-If you want,you can upload your own trained model.But don't forget , model signaturesshould match.
+If you want,you can upload your own trained model.But don't forget , model signatures should match.
 And after running it, you'll know what to do ;)
