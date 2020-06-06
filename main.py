@@ -15,7 +15,7 @@ def predict_digit(img):
     img = img/255.0
 
     res = model.predict([img])[0]
-    print(res)
+    
     return np.argmax(res), max(res)
 
 class App(tk.Tk):
